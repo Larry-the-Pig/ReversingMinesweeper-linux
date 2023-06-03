@@ -1,5 +1,5 @@
 #pragma once
-#include <Windows.h>
+#include "Windows.h"
 
 #define CONFIG_DIFFICULTY 0
 #define CONFIG_MINES 1
